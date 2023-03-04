@@ -1,5 +1,5 @@
 <?php
-	$name = "maicon"; //ler a string
+	$name = "pedro gabriel"; //ler a string
 	echo $name;
 	echo "<hr>";
 	
@@ -15,7 +15,7 @@
 	echo gettype($nasc);
 	echo "<hr>";
 	
-	$String = "maicon"; //string
+	$String = "pedro gabriel"; //string
 	echo gettype($String);
 	echo "<hr>";
 	
